@@ -1,0 +1,4 @@
+C:\Users\Student\source\repos\Zab_ADONET\Zab_ADONET\bin\Debug\netcoreapp3.1\Zab_ADONET.exe
+C:\Users\Student\source\repos\Zab_ADONET\Zab_ADONET\obj\Debug\netcoreapp3.1\Zab_ADONET.csprojAssemblyReference.cache
+C:\Users\Student\source\repos\Zab_ADONET\Zab_ADONET\obj\Debug\netcoreapp3.1\Zab_ADONET.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\Zab_ADONET\Zab_ADONET\obj\Debug\netcoreapp3.1\Zab_ADONET.AssemblyInfo.cs
